@@ -1,0 +1,44 @@
+Building permits data from Census Bureau. Eg:
+http://www.census.gov/construction/bps/txt/tb3u2004.txt
+
+Jobs data from BLS. (Occupation Code 15-0000) Eg:
+http://www.bls.gov/oes/current/oes_12420.htm#15-0000
+
+Metros selection: We will use a subset of metros.
+http://www.bls.gov/web/metro/largemetro_oty_change.htm
+
+bp_files contains all the files to get
+
+Loop to get the files
+
+for f in `cat bp_files`
+do
+wget $f
+done
+
+
+To get bp data
+for x in `cat metros`; do grep x tb*; done > bps
+
+Washington Arlington data is not on one line. Remove this for now.
+Add it in later..
+grep -v "Washington-Arlington-" bps > bps.1
+
+Downlad xls zip files for MSA jobs data from
+http://www.bls.gov/oes/tables.htm
+Convert to csv
+process using jobsdata.R helper
+
+
+Census data variables
+http://api.census.gov/data/2012/acs5/variables.html
+
+
+To get variables of specific metro
+http://api.census.gov/data/2014/acs5?get=NAME,B01001_001E&for=metropolitan+statistical+area/micropolitan+statistical+area:12420
+
+where 12420 is fips code for Austin
+
+
+In general useful source-
+http://www.bls.gov/bdm/

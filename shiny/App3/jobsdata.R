@@ -1,0 +1,31 @@
+jobs_2010 <- read.csv("/Users/geetasg/shiny/App3/oesm10ma/MSA_M2010_dl_1.csv", stringsAsFactors = FALSE)
+jobs_2010_2 <- read.csv("/Users/geetasg/shiny/App3/oesm10ma/MSA_M2010_dl_2.csv", stringsAsFactors = FALSE)
+jobs_2010_3 <- read.csv("/Users/geetasg/shiny/App3/oesm10ma/MSA_M2010_dl_3.csv", stringsAsFactors = FALSE)
+jobs_2010 <- rbind(jobs_2010, jobs_2010_2)
+jobs_2010 <- rbind(jobs_2010, jobs_2010_3)
+write.csv(jobs_2010, file="/Users/geetasg/shiny/App3/jobs_2010.csv")
+
+jobs_2011 <- read.csv("/Users/geetasg/shiny/App3/oesm11ma/MSA_M2011_dl_1_AK_IN.csv", stringsAsFactors = FALSE)
+jobs_2011_2 <- read.csv("/Users/geetasg/shiny/App3/oesm11ma/MSA_M2011_dl_2_KS_NY.csv", stringsAsFactors = FALSE)
+jobs_2011_3 <- read.csv("/Users/geetasg/shiny/App3/oesm11ma/MSA_M2011_dl_3_OH_WY.csv", stringsAsFactors = FALSE)
+jobs_2011 <- rbind(jobs_2011, jobs_2011_2)
+jobs_2011 <- rbind(jobs_2011, jobs_2011_3)
+write.csv(jobs_2011, file="/Users/geetasg/shiny/App3/jobs_2011.csv")
+
+jobs_2012 <- read.csv("/Users/geetasg/shiny/App3/oesm12ma/MSA_M2012_dl_1_AK_IN.csv", stringsAsFactors = FALSE)
+jobs_2012_2 <- read.csv("/Users/geetasg/shiny/App3/oesm12ma/MSA_M2012_dl_2_KS_NY.csv", stringsAsFactors = FALSE)
+jobs_2012_3 <- read.csv("/Users/geetasg/shiny/App3/oesm12ma/MSA_M2012_dl_3_OH_WY.csv", stringsAsFactors = FALSE)
+jobs_2012 <- rbind(jobs_2012, jobs_2012_2)
+jobs_2012 <- rbind(jobs_2012, jobs_2012_3)
+write.csv(jobs_2012, file="/Users/geetasg/shiny/App3/jobs_2012.csv")
+
+jobs_2013 <- read.csv("/Users/geetasg/shiny/App3/oesm13ma/MSA_M2013_dl_1_AK_IN.csv", stringsAsFactors = FALSE)
+jobs_2013_2 <- read.csv("/Users/geetasg/shiny/App3/oesm13ma/MSA_M2013_dl_2_KS_NY.csv", stringsAsFactors = FALSE)
+jobs_2013_3 <- read.csv("/Users/geetasg/shiny/App3/oesm13ma/MSA_M2013_dl_3_OH_WY.csv", stringsAsFactors = FALSE)
+jobs_2013 <- rbind(jobs_2013, jobs_2013_2)
+jobs_2013 <- rbind(jobs_2013, jobs_2013_3)
+write.csv(jobs_2013, file="/Users/geetasg/shiny/App3/jobs_2013.csv")
+
+jobs_2014 <- read.csv("/Users/geetasg/shiny/App3/oesm14ma/MSA_M2014_dl.csv", stringsAsFactors = FALSE)
+write.csv(jobs_2014, file="/Users/geetasg/shiny/App3/jobs_2014.csv")
+

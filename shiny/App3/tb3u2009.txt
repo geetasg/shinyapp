@@ -1,0 +1,366 @@
+10180 Abilene                             214     214       0       0       0       0
+10420 Akron                               741     670       4      18      49       9
+10500 Albany                              213     183      16       9       5       1
+10580 Albany-Schenectady-Troy            1380    1109      28      63     180      17
+10740 Albuquerque                       1692    1519       0      30     143      11
+10780 Alexandria                          396     348      48       0       0       0
+10900 Allentown-Bethlehem-Easton-NJ     1648    1401       0      15     232      23
+11020 Altoona                             125     103      10      12       0       0
+11100 Amarillo                            642     606       4       8      24       3
+11180 Ames                                122     122       0       0       0       0
+11260 Anchorage                          551     297      54      39     161       5
+11300 Anderson                             69      61       8       0       0       0
+11340 Anderson                            280     280       0       0       0       0
+11460 Ann Arbor                           253     210       2       0      41       8
+11500 Anniston-Oxford                     194     139       6       3      46       1
+11540 Appleton                            517     421      64       0      32       4
+11700 Asheville                          1465    1171       4       6     284      17
+12020 Athens-Clarke County                297     277      14       6       0       0
+12060 Atlanta-Sandy Springs-Marietta    6533    5421       8     110     994      36
+12100 Atlantic City-Hammonton            512     486       4      11      11       2
+12220 Auburn-Opelika                    1253     650       4       8     591      51
+12260 Augusta-Richmond County-SC         2277    2167       0      12      98      15
+12420 Austin-Round Rock                 8758    6678      20      11    2049      67
+12540 Bakersfield                        1777    1585      14       7     171       9
+12580 Baltimore-Towson                  5115    3099       2      23    1991      68
+12620 Bangor                              366     279      14       7      66       3
+12700 Barnstable Town                     377     337       4       0      36       5
+12940 Baton Rouge                        2921    2834       8       7      72       6
+12980 Battle Creek                         36      36       0       0       0       0
+13020 Bay City                             68      68       0       0       0       0
+13140 Beaumont-Port Arthur               2129    1650       6       8     465      24
+13380 Bellingham                          460     426       8      10      16       1
+13460 Bend                               376     348       2       0      26       1
+13740 Billings                            529     459       2       3      65       1
+13780 Binghamton                          205     155       4       0      46       4
+13820 Birmingham-Hoover                 1807    1683      18      50      56       7
+13900 Bismarck                            515     431       2      11      71       2
+13980 Blacksburg-Christiansburg-Radford   410     349       4       8      49       7
+14020 Bloomington                         306     236      16       4      50       6
+14060 Bloomington-Normal                  502     304       8       0     190      16
+14260 Boise City-Nampa                  1904    1769       6     121       8       1
+14460 Boston-Cambridge-Quincy-NH        5476    3073     192     163    2048     133
+14500 Boulder                             345     136       6      17     186      14
+14540 Bowling Green                       353     284      12      16      41       4
+14600 Bradenton-Sarasota-Venice         1763    1317      16      36     394      25
+14740 Bremerton-Silverdale                562     552      10       0       0       0
+14860 Bridgeport-Stamford-Norwalk        1199     476      34      25     664      24
+15180 Brownsville-Harlingen              1105     939      36      59      71       5
+15260 Brunswick                           394     394       0       0       0       0
+15380 Buffalo-Niagara Falls              1367     993      50       4     320       5
+15500 Burlington                          561     441       0       0     120       5
+15540 Burlington-South Burlington         593     282      24      67     220       7
+15940 Canton-Massillon                    360     296       6       0      58       9
+15980 Cape Coral-Fort Myers              944     906       8      16      14       2
+16020 Cape Girardeau-Jackson-IL           154      66      16       0      72       6
+16180 Carson City                         18      18       0       0       0       0
+16220 Casper                              412     341       0       0      71       4
+16300 Cedar Rapids                       1200     699      74     176     251      22
+16580 Champaign-Urbana                    520     369       8      18     125      13
+16620 Charleston                          356     300      10      19      27       2
+16700 Charleston-North Charleston-Summerville 2949    2732       2       4     211      15
+16740 Charlotte-Gastonia-Concord-SC     7091    4426      40      32    2593     101
+16820 Charlottesville                     666     584      28       0      54       4
+16860 Chattanooga-GA                     1126     994      52      13      67       9
+16940 Cheyenne                            387     169       2       0     216      10
+16980 Chicago-Naperville-Joliet-IN-WI 6097    4383     102     167    1445      85
+17020 Chico                               360     306       2       4      48       4
+17140 Cincinnati-Middletown-KY-IN       3515    3109      34      77     295      26
+17300 Clarksville-KY                     1458    1275      14      85      84      10
+17420 Cleveland                           351     262      18      71       0       0
+17460 Cleveland-Elyria-Mentor           2069    1809       6      32     222      22
+17660 Coeur dAlene                        861     761      16       4      80       6
+17780 College Station-Bryan               836     727       6      15      88       2
+17820 Colorado Springs                  1369    1353       8       0       8       1
+17860 Columbia                            632     522      32       0      78       5
+17900 Columbia                          3498    2583       0       0     915      46
+17980 Columbus-AL                        1208     881       8      19     300      20
+18020 Columbus                            125     125       0       0       0       0
+18140 Columbus                          4059    2574      32     161    1292      93
+18580 Corpus Christi                     1150    1049       6       4      91      17
+18700 Corvallis                            96      96       0       0       0       0
+19060 Cumberland-WV                       199     124       2      20      53       7
+19100 Dallas-Fort Worth-Arlington      20370   14141     198      98    5933     234
+19140 Dalton                             138     129       0       3       6       1
+19180 Danville                             10      10       0       0       0       0
+19260 Danville                            127      83       0       0      44       8
+19340 Davenport-Moline-Rock Island-IL   727     371      16       4     336      12
+19380 Dayton                              848     770       4       0      74       8
+19460 Decatur                              93      93       0       0       0       0
+19500 Decatur                              93      93       0       0       0       0
+19660 Deltona-Daytona Beach-Ormond Beach  666     586       6       0      74      11
+19740 Denver-Aurora-Broomfield          4112    2723      92      18    1279      32
+19780 Des Moines-West Des Moines        2478    1799      10      29     640      26
+19820 Detroit-Warren-Livonia            1333    1261       2      37      33       2
+20020 Dothan                              337     281       0       8      48       8
+20100 Dover                              806     722       2       4      78       8
+20220 Dubuque                             435     315      18       0     102       3
+20260 Duluth-WI                           552     460      10       0      82      13
+20500 Durham-Chapel Hill                2657    1324       4      44    1285      60
+20740 Eau Claire                          421     311      60      24      26       1
+20940 El Centro                           196     184       2       4       6       1
+21340 El Paso                            3191    2640       0      76     475      69
+21060 Elizabethtown                       460     383      14      47      16       2
+21140 Elkhart-Goshen                      185     137       0       0      48       3
+21300 Elmira                               72      40       0       0      32       1
+21500 Erie                                473     383       0       7      83       7
+21660 Eugene-Springfield                  616     428      24       8     156       9
+21780 Evansville-KY                       718     530      16      25     147      23
+21820 Fairbanks                           34      34       0       0       0       0
+22020 Fargo-MN                           1678     803       2       0     873      20
+22140 Farmington                         234     208       0      12      14       1
+22180 Fayetteville                       2664    1798      22       0     844      51
+22220 Fayetteville-Springdale-Rogers 1751    1067      40      13     631      53
+22380 Flagstaff                           482     128       0      32     322      19
+22420 Flint                               149      83       2       0      64       2
+22500 Florence                            349     301      48       0       0       0
+22520 Florence-Muscle Shoals              181     133       2      19      27       3
+22540 Fond du Lac                         204     118       2       4      80       8
+22660 Fort Collins-Loveland              451     361       2      15      73       3
+22900 Fort Smith-OK                       894     569     170       4     151      16
+23020 Fort Walton Beach-Crestview-Destin 410     410       0       0       0       0
+23060 Fort Wayne                         884     764       0      11     109       9
+23420 Fresno                             2228    2068       4      50     106      15
+23460 Gadsden                             128     128       0       0       0       0
+23540 Gainesville                         529     384       0       0     145      12
+23580 Gainesville                         239     237       2       0       0       0
+24020 Glens Falls                         325     282      12       7      24       2
+24140 Goldsboro                           259     259       0       0       0       0
+24220 Grand Forks-MN                      325     166       6       0     153       4
+24300 Grand Junction                     365     363       2       0       0       0
+24340 Grand Rapids-Wyoming               792     767       6       4      15       1
+24500 Great Falls                         187     143       8       4      32       3
+24540 Greeley                            761     718       0       0      43       8
+24580 Green Bay                           837     607       6       0     224      21
+24660 Greensboro-High Point             2075    1363      14      36     662      46
+24780 Greenville                          585     389     124       0      72       9
+24860 Greenville                        1541    1449      26      15      51       7
+25060 Gulfport-Biloxi                    2836    1930     110     151     645      38
+25180 Hagerstown-Martinsburg-WV           701     659       6       0      36       3
+25260 Hanford-Corcoran                    194     194       0       0       0       0
+25420 Harrisburg-Carlisle                1522    1199      22       0     301      22
+25500 Harrisonburg                       620     469      12       0     139       7
+25540 Hartford-West Hartford-East Hartford 1338    1011      14      18     295      27
+25620 Hattiesburg                         108      98       0       4       6       1
+25860 Hickory-Lenoir-Morganton            601     589      12       0       0       0
+25980 Hinesville-Fort Stewart             387     135       0       0     252      14
+26100 Holland-Grand Haven                 408     361       4       0      43       8
+26180 Honolulu                          1036     862       8      20     146       5
+26300 Hot Springs                          38      38       0       0       0       0
+26380 Houma-Bayou Cane-Thibodaux          555     527      28       0       0       0
+26420 Houston-Sugar Land-Baytown       27326   22369     228      20    4709     235
+26580 Huntington-Ashland-KY-OH            193     110      16      18      49       2
+26620 Huntsville                         2988    2293       2       9     684      43
+26820 Idaho Falls                         324     316       4       4       0       0
+26900 Indianapolis-Carmel               5600    3601      66      65    1868     133
+26980 Iowa City                           729     617      12      12      88       8
+27060 Ithaca                              127     100      12       0      15       3
+27100 Jackson                             127      64       0       0      63       3
+27140 Jackson                            1188    1182       6       0       0       0
+27180 Jackson                             253     253       0       0       0       0
+27260 Jacksonville                      4666    3323      22       4    1317      60
+27340 Jacksonville                       2136    1519      20       4     593      28
+27500 Janesville                          213     157      16       0      40       6
+27620 Jefferson City                      313     203       6      20      84       3
+27740 Johnson City                        505     478       4       0      23       3
+27780 Johnstown                            94      94       0       0       0       0
+27860 Jonesboro                           446     427       0      19       0       0
+27900 Joplin                              218     153      12       0      53       6
+28020 Kalamazoo-Portage                   401     385       2       3      11       1
+28100 Kankakee-Bradley                     96      94       2       0       0       0
+28140 Kansas City-KS                    3406    1858      46      99    1403      70
+28420 Kennewick-Pasco-Richland           1091    1080       6       0       5       1
+28660 Killeen-Temple-Fort Hood           2340    2022      74       8     236      14
+28700 Kingsport-Bristol-Bristol-VA        554     489      16      13      36       5
+28740 Kingston                            287     171      18       3      95       6
+28940 Knoxville                          1927    1367      44      11     505      25
+29020 Kokomo                               81      19       2       0      60       1
+29100 La Crosse-MN                        349     258       0       0      91       4
+29140 Lafayette                           486     453       0       4      29       2
+29180 Lafayette                           827     766       4       0      57       9
+29340 Lake Charles                       1163     782      46       0     335       2
+29420 Lake Havasu City-Kingman            267     261       0       6       0       0
+29460 Lakeland-Winter Haven             1135    1135       0       0       0       0
+29540 Lancaster                          1262     990      56      50     166      15
+29620 Lansing-East Lansing                251     249       2       0       0       0
+29700 Laredo                             786     668       6      84      28       3
+29740 Las Cruces                        1139     854       0       0     285      36
+29820 Las Vegas-Paradise                5688    3777      12     277    1622      94
+29940 Lawrence                            342     186       0       0     156      13
+30020 Lawton                              641     347      10       4     280      17
+30140 Lebanon                             353     353       0       0       0       0
+30300 Lewiston-WA                          81      71      10       0       0       0
+30340 Lewiston-Auburn                     167     153      14       0       0       0
+30460 Lexington-Fayette                  1633    1279      18       8     328       9
+30620 Lima                                 64      57       4       3       0       0
+30700 Lincoln                             728     682       4       0      42       2
+30780 Little Rock-North Little Rock      3049    1781      36      46    1186      90
+30860 Logan-ID                            533     428      56      17      32       6
+30980 Longview                            199     171       2       0      26       5
+31020 Longview                            147     147       0       0       0       0
+31100 Los Angeles-Long Beach-Santa Ana 7281    3609     430     200    3042     157
+31140 Louisville-Jefferson County-IN    2410    2154      22      69     165      16
+31180 Lubbock                            1031     786      16       3     226      10
+31340 Lynchburg                           727     645       4      24      54       6
+31420 Macon                               304     302       2       0       0       0
+31460 Madera-Chowchilla                   120      68       4      48       0       0
+31540 Madison                           1403     779      18      26     580      15
+31700 Manchester-Nashua                   513     321       8      88      96      12
+31740 Manhattan                          1001     503       8      44     446      19
+31860 Mankato-North Mankato               263     247       4       0      12       1
+31900 Mansfield                            73      47       4       0      22       1
+32580 McAllen-Edinburg-Mission          3156    2784      44     150     178      21
+32780 Medford                             321     317       4       0       0       0
+32820 Memphis-MS-AR                     2034    1570       0       0     464      16
+32900 Merced                               99      94       0       0       5       1
+33100 Miami-Fort Lauderdale-Pompano Beach 3875    2289      52     166    1368      60
+33140 Michigan City-La Porte              138     114       0       0      24       2
+33260 Midland                            330     330       0       0       0       0
+33340 Milwaukee-Waukesha-West Allis     1427     875      50      24     478      15
+33460 Minneapolis-St. Paul-Bloomington 4670    3629      18      51     972      39
+33540 Missoula                           225     207      14       4       0       0
+33660 Mobile                             2635    1217       8      39    1371      81
+33700 Modesto                             364     279       0       0      85      10
+33740 Monroe                              276     255       8       3      10       2
+33780 Monroe                               80      80       0       0       0       0
+33860 Montgomery                          467     437       0       0      30       1
+34060 Morgantown                           48      36       0       0      12       1
+34100 Morristown                          219     209       6       4       0       0
+34580 Mount Vernon-Anacortes              290     251       4       0      35       2
+34620 Muncie                               44      44       0       0       0       0
+34740 Muskegon-Norton Shores               93      67      12       0      14       2
+34820 Myrtle Beach-North Myrtle Beach-Conway 1711    1457       0       0     254      19
+34900 Napa                                131     125       6       0       0       0
+34940 Naples-Marco Island                944     630       0     112     202      12
+34980 Nashville-Davidson--Murfreesboro 4933    3957      26      18     932      51
+35300 New Haven-Milford                   509     393      12       9      95      16
+35380 New Orleans-Metairie-Kenner       2832    2190     330       7     305       8
+35620 New York-Northern New Jersey-Long Island 16707    6496    1078     674    8459     396
+35660 Niles-Benton Harbor                 120     104       0       0      16       2
+35980 Norwich-New London                  427     259       8       7     153      22
+36100 Ocala                              394     370      18       0       6       1
+36140 Ocean City                         428     266      48       0     114       2
+36220 Odessa                             220     220       0       0       0       0
+36260 Ogden-Clearfield                   1591    1478       8      75      30       4
+36420 Oklahoma City                     3452    3119      54      45     234      23
+36500 Olympia                            1317    1083      40     126      68      12
+36540 Omaha-Council Bluffs-IA           3464    3081      16       9     358      15
+36740 Orlando-Kissimmee                 4487    3707      26      35     719      35
+36780 Oshkosh-Neenah                      401     263      16       4     118      13
+36980 Owensboro                           249     245       4       0       0       0
+37100 Oxnard-Thousand Oaks-Ventura        352     204       0      65      83      13
+37340 Palm Bay-Melbourne-Titusville      995     883       0       4     108       8
+37380 Palm Coast                          168     168       0       0       0       0
+37460 Panama City-Lynn Haven-Panama City Beach 352     262      10       8      72       9
+37620 Parkersburg-Marietta-Vienna-OH      141     133       2       0       6       1
+37700 Pascagoula                          812     758      46       8       0       0
+37860 Pensacola-Ferry Pass-Brent        1042     962       6       0      74      12
+37900 Peoria                              578     537      26       8       7       1
+37980 Philadelphia-Camden-Wilmington 7093    4963     174     133    1823     123
+38060 Phoenix-Mesa-Scottsdale           9272    8598       8      52     614      14
+38220 Pine Bluff                           89      53      16       0      20       2
+38300 Pittsburgh                        3033    2681      70      51     231      21
+38340 Pittsfield                          173     126       2       6      39       3
+38540 Pocatello                           161     161       0       0       0       0
+38940 Port St. Lucie                     384     360       2       8      14       2
+38860 Portland-South Portland-Biddeford 1207    1123      20      53      11       2
+38900 Portland-Vancouver-Beaverton-WA 4020    3011      28      56     925      68
+39100 Poughkeepsie-Newburgh-Middletown 905     671       6       3     225      11
+39140 Prescott                            488     348       0       0     140       4
+39300 Providence-New Bedford-Fall River 1437    1158     100      46     133      10
+39340 Provo-Orem                         1524    1260      36      84     144      18
+39380 Pueblo                             377     184       2      12     179      21
+39460 Punta Gorda                        296     286       2       8       0       0
+39540 Racine                              343     194       0       0     149       3
+39580 Raleigh-Cary                      4894    4377      16       0     501       7
+39660 Rapid City                          450     422      18       4       6       1
+39740 Reading                             400     372       0       0      28       4
+39820 Redding                             243     217      14      12       0       0
+39900 Reno-Sparks                        773     497       0       4     272      24
+40060 Richmond                          3296    2682       6      74     534      23
+40140 Riverside-San Bernardino-Ontario 6335    4887      10      58    1380      99
+40220 Roanoke                             449     447       2       0       0       0
+40340 Rochester                           570     418       2       8     142      11
+40380 Rochester                          1625    1157      32      61     375      22
+40420 Rockford                            222     220       2       0       0       0
+40580 Rocky Mount                         271     265       2       4       0       0
+40660 Rome                                111      72       4       3      32       4
+40900 Sacramento--Arden-Arcade--Roseville 2710    2415       2      34     259      23
+40980 Saginaw-Saginaw Township North      116      88       0       8      20       1
+41420 Salem                               835     510      10      18     297      29
+41500 Salinas                             194     113      14      35      32       2
+41540 Salisbury                           325     184       2       0     139      14
+41620 Salt Lake City                    4692    1627      12      54    2999     132
+41660 San Angelo                         516     181       0       0     335      12
+41700 San Antonio                       5924    5486      20      60     358      26
+41740 San Diego-Carlsbad-San Marcos     2946    1778      46      65    1057      81
+41860 San Francisco-Oakland-Fremont     3550    2271      64      85    1130      64
+41940 San Jose-Sunnyvale-Santa Clara    1094     642      28       7     417      25
+42020 San Luis Obispo-Paso Robles         394     321      18       7      48       4
+41780 Sandusky                             47      43       0       4       0       0
+42060 Santa Barbara-Santa Maria           226     186       2      13      25       2
+42100 Santa Cruz-Watsonville              149     132       0       0      17       1
+42140 Santa Fe                           102     102       0       0       0       0
+42220 Santa Rosa-Petaluma                 442     371       0       0      71      12
+42340 Savannah                           1605    1241      26       0     338      24
+42540 Scranton--Wilkes-Barre              708     647      12      15      34       2
+42660 Seattle-Tacoma-Bellevue           7419    5036     352     291    1740      77
+42680 Sebastian-Vero Beach               327     275       0       0      52      10
+43100 Sheboygan                           159      77      10       0      72       7
+43300 Sherman-Denison                     113     108       2       3       0       0
+43340 Shreveport-Bossier City            1264    1028       2       0     234      13
+43580 Sioux City-NE-SD                    205     175      26       4       0       0
+43620 Sioux Falls                        1577     962      24      99     492      25
+43780 South Bend-Mishawaka-MI             348     299       2      10      37       3
+43900 Spartanburg                         634     606       0       0      28       1
+44060 Spokane                            1786     809      28      21     928      34
+44100 Springfield                         392     313      64       0      15       2
+44140 Springfield                         629     524      56      11      38       2
+44180 Springfield                        1196     693      38       0     465      20
+44220 Springfield                          69      69       0       0       0       0
+41060 St. Cloud                           537     288       2       7     240       5
+41100 St. George                          598     591       0       0       7       1
+41140 St. Joseph-KS                       152     110      30       0      12       1
+41180 St. Louis-IL                      5162    4050      82     170     860      60
+44300 State College                       338     275      14      12      37       6
+44700 Stockton                           792     792       0       0       0       0
+44940 Sumter                             417     385       0      32       0       0
+45060 Syracuse                           1033     784       8      48     193      17
+45220 Tallahassee                         895     595      12       4     284      11
+45300 Tampa-St. Petersburg-Clearwater    6962    3923      50      33    2956     122
+45460 Terre Haute                         130     124       6       0       0       0
+45500 Texarkana-Texarkana                 302     218      32       4      48       1
+45780 Toledo                              669     477       4       0     188      25
+45820 Topeka                              489     343       2      30     114       7
+45940 Trenton-Ewing                      269     178       8       0      83       6
+46060 Tucson                            2129    1934      12      16     167      20
+46140 Tulsa                             3340    2680      60       0     600      18
+46220 Tuscaloosa                          689     360       4       6     319      17
+46340 Tyler                               209     160       0       9      40       8
+46540 Utica-Rome                          414     319       2      11      82       2
+46660 Valdosta                            897     545       0       0     352      22
+46700 Vallejo-Fairfield                   586     586       0       0       0       0
+47020 Victoria                            106     106       0       0       0       0
+47220 Vineland-Millville-Bridgeton       262     222       0       3      37       3
+47260 Virginia Beach-Norfolk-Newport News 5302    2999      14       3    2286     102
+47300 Visalia-Porterville                1097     993       2       3      99       8
+47380 Waco                                674     424      36      36     178       2
+47580 Warner Robins                       715     615       0       0     100       6
+47900 Washington-Arlington-Alexandria     12329    8954     244      12    3119      80
+47940 Waterloo-Cedar Falls                360     346      14       0       0       0
+48140 Wausau                              305     203      22       0      80       6
+48260 Weirton-Steubenville-OH              37      37       0       0       0       0
+48300 Wenatchee-East Wenatchee            355     331      12      12       0       0
+48540 Wheeling-OH                          17      17       0       0       0       0
+48660 Wichita Falls                       208     172      36       0       0       0
+48620 Wichita                            1876    1372     116      11     377      30
+48700 Williamsport                        118     112       6       0       0       0
+48900 Wilmington                        1813    1527       2       4     280      13
+49020 Winchester-WV                       361     341       2       0      18       2
+49180 Winston-Salem                      1166     836      10       3     317      38
+49340 Worcester                          1419     973      12      45     389      15
+49420 Yakima                              508     426      14       3      65       3
+49620 York-Hanover                       1173    1082       0      12      79       9
+49660 Youngstown-Warren-Boardman-PA       318     281       6       8      23       1
+49700 Yuba City                           171     169       2       0       0       0
+49740 Yuma                                749     689       0      12      48       8
